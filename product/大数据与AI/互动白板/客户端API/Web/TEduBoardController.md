@@ -6,7 +6,7 @@
 ### TEduBoard
 白板构造函数 
 ``` Javascript
-TEduBoard(TEduBoardInitParam initParams)
+TEduBoard(TEduBoardInitParam initParams)  这个参数是什么？
 ```
 #### 参数
 
